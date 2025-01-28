@@ -37,7 +37,6 @@
 
 *To install Exploit on Termux, run the following commands:*
 ```bash
-pkg install python git && git clone https://github.com/popeye0013/exploit && cd exploit && chmod+ x install.sh && bash install.sh && python exploit.py
 ```
 
 ## Screenshots:
